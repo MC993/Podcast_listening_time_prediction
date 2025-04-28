@@ -1,3 +1,4 @@
 train.csv
 podcast/
 xgb_final_model.pkl
+xgb_simplified_model.pkl
